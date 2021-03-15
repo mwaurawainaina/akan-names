@@ -6,13 +6,14 @@ h1 {
 }
 
 body {
-    background-image: URL("https://www.essence.com/wp-content/uploads/2019/10/Screen-Shot-2019-10-15-at-11.39.46-AM-1920x1080.png");
+    background-image: URL("Flag-map_of_Ghana.svg.png");
     background-size: cover;
     background-repeat: no-repeat;
     overflow-x: hidden;
     font-family: 'Rokkitt', serif;
     font-size: 23px;
     width: 100%;
+    background-color: black;
 }
 
 .text {
@@ -64,7 +65,7 @@ h2 {
 }
 
 .know {
-    background-color: gainsboro;
+    background-color:transparent;
     display: flex;
     flex-direction: column;
     width: 100%;
@@ -75,7 +76,7 @@ h2 {
     height: 100%;
     margin-left: 7%;
     float: right;
-    background-color: gainsboro;
+    background-color: transparent;
 }
 
 .form button {
